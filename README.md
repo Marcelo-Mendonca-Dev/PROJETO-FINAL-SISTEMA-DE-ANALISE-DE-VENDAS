@@ -1,7 +1,7 @@
 <img width="2752" height="1536" alt="capa" src="https://github.com/user-attachments/assets/e58a08a1-f8ca-433b-ade9-271e61133fc6" />
 
 
-# Projeto de análise de dados feito em Python usando **Pandas** e **Matplotlib** para ver como estão as vendas, o faturamento e a equipe de uma loja de varejo (usando a planilha `vendas.csv` com 50.000 linhas).
+### Projeto de análise de dados feito em Python usando **Pandas** e **Matplotlib** para ver como estão as vendas, o faturamento e a equipe de uma loja de varejo (usando a planilha `vendas.csv` com 50.000 linhas).
 
 ## Objetivo
 Limpar a base de dados que veio com erros, calcular os totais de vendas, fazer os gráficos e tirar conclusões práticas para ajudar a empresa a vender mais.
