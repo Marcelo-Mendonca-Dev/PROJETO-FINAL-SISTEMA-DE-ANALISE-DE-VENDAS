@@ -1,4 +1,3 @@
-![Capa do Projeto](capa.jpg)
 <img width="2752" height="1536" alt="capa" src="https://github.com/user-attachments/assets/e58a08a1-f8ca-433b-ade9-271e61133fc6" />
 # Sistema de Análise de Vendas
 
