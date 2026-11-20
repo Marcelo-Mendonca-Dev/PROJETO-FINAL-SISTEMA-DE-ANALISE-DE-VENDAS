@@ -1,4 +1,5 @@
-<img width="2752" height="1536" alt="capa" src="https://github.com/user-attachments/assets/e58a08a1-f8ca-433b-ade9-271e61133fc6" />
+<img width="4640" height="928" alt="capa2" src="https://github.com/user-attachments/assets/9c16e145-1f69-41dc-a19d-5c65182f0ba2" />
+
 
 
 ### Projeto de análise de dados feito em Python usando **Pandas** e **Matplotlib** para ver como estão as vendas, o faturamento e a equipe de uma loja de varejo (usando a planilha `vendas.csv` com 50.000 linhas).
